@@ -1,0 +1,1 @@
+Practice project for object-oriented programming in Python. 
